@@ -1,3 +1,3 @@
 # hello-world
 
-Hello world in Go
+Hello world in Python
